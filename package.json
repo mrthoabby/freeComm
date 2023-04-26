@@ -1,0 +1,27 @@
+{
+  "name": "freecomm",
+  "version": "1.0.0",
+  "description": "A TypeScript library for real-time communication using JSON-RPC and FreeSWITCH.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrthoabby/freeComm.git"
+  },
+  "keywords": [
+    "real-time",
+    "communication",
+    "json-rpc",
+    "freeswitch",
+    "typescript",
+    "verto"
+  ],
+  "author": "Danis Abadia",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
