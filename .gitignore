@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Built files
+dist/
+
+# TypeScript files
+*.tsbuildinfo
+
+# Test
+**/*.spec.ts
+test/
+
+# IDE
+.vscode/
+*.code-workspace
+
